@@ -1,0 +1,139 @@
+*{margin: 0; padding: 0;}
+
+html{
+    background-color: black;
+}
+
+body{
+    width: 750px;
+    height: 750px;
+    margin: auto;
+    background-color: pink;
+}
+
+
+header{
+    width: 750px;
+    height: 250px;
+    background-color: yellow;
+
+}
+
+nav{
+    width: 750px;
+    height: 50px;
+    background-color: blue;
+
+}
+
+main{
+    width: 750px;
+    height: 400px;
+    background-color: green;
+
+}
+
+footer{
+    width: 750px;
+    height: 50px;
+    background-color: orange;
+
+}
+
+section#banner{
+    width: 500px;
+    height: 250px;
+    float: left;
+    background-color: gray;
+}
+
+section#logo{
+    width: 250px;
+    height: 125px;
+    float: left;
+    background-color: red;
+}
+
+section#login{
+    width: 250px;
+    height: 125px;
+    float: left;
+    background-color: magenta;
+}
+
+aside#left{
+width: 150px;
+height: 400px;
+float: left;
+background-color: green;
+}
+
+article{
+    width: 500px;
+    height: 400px;
+    float: left;
+    background-color: lightblue;
+    }
+
+aside#right{
+     width: 100px;
+     height: 400px;
+     float: left;
+     background-color: red;
+}    
+
+h1#aside-l{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 25px;
+    color: white;
+
+}
+
+h1#aside-2{
+    position: relative;
+    top: 25%;
+    font-size: 35px;
+    color: white;
+}
+
+h1#letter-arti{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 175px;
+    font-size: 40px;
+    color: white;
+}
+
+h1#name{
+    color: black;
+}
+
+h1.ban{
+    position: absolute;
+    top: 80px;
+    margin-left: 170px;
+    font-size: 40px;
+    color: white;
+}
+
+h1.sec{
+    position: relative;
+    top: 30%;
+    margin-left: 30%;
+    font-size: 28px;
+    color: white;
+}
+
+h1.log{
+    position: relative;
+    top: 30%;
+    margin-left: 30%;
+    font-size: 28px;
+    color: white;
+}
+
+h1{
+    position: relative;
+    color: white;
+}
